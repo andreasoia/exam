@@ -58,4 +58,4 @@ def inspect_fits(fits_filepath):
 
 
 # Example Usage:
-inspect_fits('2026/red/AE_UMa-0303_calibrated_mef.fits')
+inspect_fits('2026/sci/AE_UMa-0001.fit')
